@@ -1,0 +1,21 @@
+.Deals p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.Deals h1 {
+    text-align: center;
+}
+
+.Robe2 {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

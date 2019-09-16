@@ -1,0 +1,54 @@
+.scroll1 {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 35px;
+    color: black;
+    text-shadow: -2px 0 #FFB443, 0 2px #FFB443, 2px 0 #FFB443, 0 -2px #FFB443;
+}
+
+.Basketball {
+    width: 70px;
+    height: 70px;
+}
+.Football {
+    width: 70px;
+    height: 70px;
+}
+.Bed {
+    width: 70px;
+    height: 70px;
+}
+.Bowling_Ball {
+    width: 70px;
+    height: 70px;
+}
+.Robe {
+    width: 70px;
+    height: 70px;
+}
+.Cheese {
+    width: 70px;
+    height: 70px;
+}
+.Wine {
+    width: 70px;
+    height: 70px;
+}
+
+
+.recommendations {
+    border: 2px solid black;
+    padding: 0px 10px 20px 20px;
+}
+
+.list {
+    border: 2px solid black;
+    padding: 0px 10px 20px 20px;
+}
